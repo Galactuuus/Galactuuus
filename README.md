@@ -6,6 +6,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galactuuus&show_icons=true&locale=es)
 
+![Github Stats Lenguage](https://github-readme-stats.vercel.app/api/top-langs?username=galactuuus&show_icons=true&locale=eS&layout=compact)
+
+
 
 🔐 Proyecto en el cual estoy trabajando ahora mismo 🔐 -- Proximamente...
 <br>
@@ -25,9 +28,7 @@
 
 <h3>Contacto:</h3>
 
-[Enviar correo](mailto:galactuuus@gmail.com?subject=Contacto%20desde%20Github)
-<br>
-<a href="https://www.linkedin.com/in/angel-rodriguez-2a9990207">Mi Linkedin</a>
-
+  <a href="mailto:galactuuus@gmail.com?subject=Contacto%20desde%20Github" > <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="Gmail" width="30"      height="30"/> </a>
+  <a href="https://www.linkedin.com/in/angel-rodriguez-2a9990207"> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="30"        height="30"/> </a>
 
                          
